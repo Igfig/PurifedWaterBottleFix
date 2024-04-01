@@ -6,7 +6,7 @@
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": "${mod_author}",
+  "authorList": ["Tfarcenim", "digbyofficial"],
   "credits": "",
   "logoFile": "",
   "screenshots": [],
