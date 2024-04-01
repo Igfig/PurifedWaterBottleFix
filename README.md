@@ -1,2 +1,2 @@
-# forge-mixin-example
-An example for using Mixin in Minecraft Forge
+# Purified Water Fix
+Lets water bottles interact directly with fluid containers
