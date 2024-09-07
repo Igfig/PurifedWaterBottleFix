@@ -8,13 +8,12 @@ import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
 
-@Mod(modid = Constants.MOD_ID, useMetadata = true)
+@Mod(modid = Constants.MOD_ID, version = "1.12.2-2", useMetadata = true)
 @Mod.EventBusSubscriber
 public class PurifiedWaterFix {
-
+    
     @Mod.EventHandler
-    public void onPreInit(FMLPreInitializationEvent event) {
-    }
+    public void onPreInit(FMLPreInitializationEvent event) {}
 
     @SubscribeEvent
     public static void attachCaps(AttachCapabilitiesEvent<ItemStack> event) {
