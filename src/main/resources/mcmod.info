@@ -12,5 +12,6 @@
   "screenshots": [],
   "useDependencyInformation": true,
   "requirements": ["cuisine", "toughasnails"],
-  "dependencies": ["cuisine", "toughasnails"]
+  "dependencies": ["toughasnails"],
+  "dependents": ["cuisine"]
 }]
